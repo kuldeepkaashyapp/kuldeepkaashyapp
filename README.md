@@ -99,28 +99,33 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Rms)
 
---
-## Progress
+--## Progress
+
+<div align="center">
+
 ### Spring Boot Journey
 
-![Core Java](https://img.shields.io/badge/Core_Java-Advanced_▓▓▓▓▓▓▓▓▓▓_100%25-22863a?style=flat-square&labelColor=1a7f37)
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-Advanced_▓▓▓▓▓▓▓▓▓▓_100%25-22863a?style=flat-square&labelColor=1a7f37)
-![Spring Core](https://img.shields.io/badge/Spring_Core-Advanced_▓▓▓▓▓▓▓▓▓▓_100%25-22863a?style=flat-square&labelColor=1a7f37)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Proficient_▓▓▓▓▓▓▓▓░░_80%25-1d6fa5?style=flat-square&labelColor=185fa5)
-![JWT Security](https://img.shields.io/badge/JWT_Security-Intermediate_▓▓▓▓▓▓░░░░_60%25-b45309?style=flat-square&labelColor=92400e)
-![Microservices](https://img.shields.io/badge/Microservices-Learning_▓▓▓░░░░░░░_30%25-b91c1c?style=flat-square&labelColor=991b1b)
+| | Skill | Progress | Level |
+|:---:|:---|:---:|:---:|
+| <img width="20" src="https://skillicons.dev/icons?i=java"/> | Core Java | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
+| <img width="20" src="https://skillicons.dev/icons?i=java"/> | Advanced Java | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
+| <img width="20" src="https://skillicons.dev/icons?i=spring"/> | Spring Core | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
+| <img width="20" src="https://skillicons.dev/icons?i=spring"/> | Spring Boot | ![](https://geps.dev/progress/80?successColor=3b82f6) | `Proficient` |
+| <img width="20" src="https://skillicons.dev/icons?i=javascript"/> | JWT Security | ![](https://geps.dev/progress/60?successColor=f59e0b) | `Intermediate` |
+| <img width="20" src="https://skillicons.dev/icons?i=docker"/> | Microservices | ![](https://geps.dev/progress/30?successColor=ef4444) | `Learning` |
 
 <br/>
 
 ### DSA Roadmap
 
-![Arrays & Strings](https://img.shields.io/badge/✦_Arrays_%26_Strings-Solved-22863a?style=for-the-badge&labelColor=1a7f37&logoColor=white)
-![Linked List](https://img.shields.io/badge/✦_Linked_List-Solved-22863a?style=for-the-badge&labelColor=1a7f37)
-![Stack & Queue](https://img.shields.io/badge/✦_Stack_%26_Queue-Solved-22863a?style=for-the-badge&labelColor=1a7f37)
-![Trees](https://img.shields.io/badge/◎_Trees_%26_Binary_Search-In_Progress-1d6fa5?style=for-the-badge&labelColor=185fa5)
-![Graphs](https://img.shields.io/badge/◎_Graphs-In_Progress-1d6fa5?style=for-the-badge&labelColor=185fa5)
-![DP](https://img.shields.io/badge/○_Dynamic_Programming-Upcoming-b45309?style=for-the-badge&labelColor=92400e)
+![](https://img.shields.io/badge/Arrays_%26_Strings-✔_Solved-27500a?style=for-the-badge&labelColor=22c55e)
+![](https://img.shields.io/badge/Linked_List-✔_Solved-27500a?style=for-the-badge&labelColor=22c55e)
+![](https://img.shields.io/badge/Stack_%26_Queue-✔_Solved-27500a?style=for-the-badge&labelColor=22c55e)
+![](https://img.shields.io/badge/Trees_%26_Binary_Search-⟳_In_Progress-0c447c?style=for-the-badge&labelColor=3b82f6)
+![](https://img.shields.io/badge/Graphs-⟳_In_Progress-0c447c?style=for-the-badge&labelColor=3b82f6)
+![](https://img.shields.io/badge/Dynamic_Programming-◷_Upcoming-633806?style=for-the-badge&labelColor=f59e0b)
 
+</div>
 ## GitHub Analytics
 
 <div align="center">
