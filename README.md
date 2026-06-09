@@ -65,11 +65,8 @@ public class KuldeepKashyap {
 
 **Databases**
 
-
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools & IDEs**
 
@@ -99,7 +96,9 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Rms)
 
---## Progress
+---
+
+## Progress
 
 <div align="center">
 
@@ -111,8 +110,8 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 | <img width="20" src="https://skillicons.dev/icons?i=java"/> | Advanced Java | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
 | <img width="20" src="https://skillicons.dev/icons?i=spring"/> | Spring Core | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
 | <img width="20" src="https://skillicons.dev/icons?i=spring"/> | Spring Boot | ![](https://geps.dev/progress/80?successColor=3b82f6) | `Proficient` |
-| <img width="20" src="https://skillicons.dev/icons?i=javascript"/> | JWT Security | ![](https://geps.dev/progress/60?successColor=f59e0b) | `Intermediate` |
-| <img width="20" src="https://skillicons.dev/icons?i=docker"/> | Microservices | ![](https://geps.dev/progress/30?successColor=ef4444) | `Learning` |
+| <img width="20" src="https://skillicons.dev/icons?i=nginx"/> | JWT Security | ![](https://geps.dev/progress/60?successColor=f59e0b) | `Intermediate` |
+| <img width="20" src="https://skillicons.dev/icons?i=kubernetes"/> | Microservices | ![](https://geps.dev/progress/30?successColor=ef4444) | `Learning` |
 
 <br/>
 
@@ -126,17 +125,16 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 ![](https://img.shields.io/badge/Dynamic_Programming-◷_Upcoming-633806?style=for-the-badge&labelColor=f59e0b)
 
 </div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kuldeepkaashyapp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;
-
-</div>
-
-<div align="center">
-
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepkaashyapp&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -145,6 +143,8 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepkaashyapp&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
+
+---
 
 ## Certifications
 
@@ -177,6 +177,7 @@ End-to-end recruitment platform with automated resume screening and candidate ra
     </td>
   </tr>
 </table>
+
 ---
 
 ## Connect
