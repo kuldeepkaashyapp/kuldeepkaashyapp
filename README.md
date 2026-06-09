@@ -99,35 +99,32 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Rms)
 
-
-
----
-
+--
 ## Progress
 
 ### Spring Boot Journey
 
-| Area | Level | Progress |
+| Skill | Level | Progress |
 |---|---|---|
-| Core Java | Advanced | `██████████` 100% |
-| Advanced Java | Advanced | `██████████` 100% |
-| Spring Core | Proficient | `██████████` 100% |
-| Spring Boot | Proficient | `████████░░` 80% |
-| JWT Security | Intermediate | `██████░░░░` 60% |
-| Microservices | Learning | `███░░░░░░░` 30% |
+| Core Java | ![](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | ![](https://geps.dev/progress/100?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e) |
+| Advanced Java | ![](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | ![](https://geps.dev/progress/100?successColor=22c55e) |
+| Spring Core | ![](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | ![](https://geps.dev/progress/100?successColor=22c55e) |
+| Spring Boot | ![](https://img.shields.io/badge/Proficient-3b82f6?style=flat-square) | ![](https://geps.dev/progress/80?successColor=3b82f6) |
+| JWT Security | ![](https://img.shields.io/badge/Intermediate-f59e0b?style=flat-square) | ![](https://geps.dev/progress/60?successColor=f59e0b) |
+| Microservices | ![](https://img.shields.io/badge/Learning-ef4444?style=flat-square) | ![](https://geps.dev/progress/30?successColor=ef4444) |
 
 ### DSA Roadmap
 
 | Topic | Status |
 |---|---|
-| Arrays & Strings | ✅ Solved |
-| Linked List | ✅ Solved |
-| Stack & Queue | ✅ Solved |
-| Trees & Binary Search | 🔄 In Progress |
-| Graphs | 🔄 In Progress |
-| Dynamic Programming | 📌 Upcoming |
+| Arrays & Strings | ![](https://img.shields.io/badge/Solved-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
+| Linked List | ![](https://img.shields.io/badge/Solved-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
+| Stack & Queue | ![](https://img.shields.io/badge/Solved-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
+| Trees & Binary Search | ![](https://img.shields.io/badge/In%20Progress-3b82f6?style=flat-square) |
+| Graphs | ![](https://img.shields.io/badge/In%20Progress-3b82f6?style=flat-square) |
+| Dynamic Programming | ![](https://img.shields.io/badge/Upcoming-f59e0b?style=flat-square) |
 
----
+--
 
 ## GitHub Analytics
 
