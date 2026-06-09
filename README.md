@@ -146,18 +146,37 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 </div>
 
----
-
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| Java Fundamentals | Oracle |
-| Spring Framework | — |
-| Git & GitHub | — |
-| Data Structures & Algorithms | — |
-| Cloud Fundamentals | — |
-
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Oracle-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br/>
+      <b>Java Fundamentals</b><br/>
+      <sub>Oracle</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Spring-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br/>
+      <b>Spring Framework</b><br/>
+      <sub>Spring Academy</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+      <b>Git &amp; GitHub</b><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/DSA-Certified-7F77DD?style=for-the-badge&logo=leetcode&logoColor=white"/><br/>
+      <b>Data Structures &amp; Algorithms</b><br/>
+      <sub>Course</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Cloud-Fundamentals-1D9E75?style=for-the-badge&logo=googlecloud&logoColor=white"/><br/>
+      <b>Cloud Fundamentals</b><br/>
+      <sub>AWS / GCP</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Connect
