@@ -8,9 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+Java+backends;Spring+Boot+%7C+REST+APIs+%7C+JWT+Security;Solving+DSA+problems+daily;Future+Software+Engineer)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0ea5e9&style=flat-square)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=kuldeepkaashyapp&label=Profile+Views&color=0ea5e9&style=flat-square)](https://github.com/kuldeepkaashyapp)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/kuldeepkaashyapp?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/kuldeepkaashyapp)
 
 </div>
 
