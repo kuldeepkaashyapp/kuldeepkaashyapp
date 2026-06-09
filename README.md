@@ -85,7 +85,7 @@ public class KuldeepKashyap {
 
 A well-architected hospital management backend built to learn and demonstrate Spring Core concepts — including bean lifecycle management, dependency injection patterns, and layered design through UML diagrams.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/hospital-management-system)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/hospital-management-system)
 
 ---
 
@@ -94,25 +94,9 @@ A well-architected hospital management backend built to learn and demonstrate Sp
 
 End-to-end recruitment platform with automated resume screening and candidate ranking. Integrates Firebase for real-time data sync and Google APIs for document parsing.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/recruitment-management-system)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Rms)
 
----
 
-### 🤖 AI Chatbot
-> Java · Knowledge Base · Website Integration
-
-Lightweight AI-powered chatbot built in Java with a custom knowledge base, designed for easy embedding into any web application.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/ai-chatbot)
-
----
-
-### 🎓 Smart College ERP
-> Student Management · Faculty Management · Attendance System
-
-Comprehensive ERP system for educational institutions — covering student records, faculty management, and attendance tracking.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/smart-college-erp)
 
 ---
 
@@ -146,21 +130,19 @@ Comprehensive ERP system for educational institutions — covering student recor
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kuldeepkaashyapp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepkaashyapp&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
