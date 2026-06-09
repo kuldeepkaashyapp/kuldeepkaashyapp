@@ -101,30 +101,25 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 --
 ## Progress
-
 ### Spring Boot Journey
 
-| Skill | Level | Progress |
-|---|---|---|
-| Core Java | ![](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | ![](https://geps.dev/progress/100?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e) |
-| Advanced Java | ![](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | ![](https://geps.dev/progress/100?successColor=22c55e) |
-| Spring Core | ![](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | ![](https://geps.dev/progress/100?successColor=22c55e) |
-| Spring Boot | ![](https://img.shields.io/badge/Proficient-3b82f6?style=flat-square) | ![](https://geps.dev/progress/80?successColor=3b82f6) |
-| JWT Security | ![](https://img.shields.io/badge/Intermediate-f59e0b?style=flat-square) | ![](https://geps.dev/progress/60?successColor=f59e0b) |
-| Microservices | ![](https://img.shields.io/badge/Learning-ef4444?style=flat-square) | ![](https://geps.dev/progress/30?successColor=ef4444) |
+![Core Java](https://img.shields.io/badge/Core_Java-Advanced_▓▓▓▓▓▓▓▓▓▓_100%25-22863a?style=flat-square&labelColor=1a7f37)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-Advanced_▓▓▓▓▓▓▓▓▓▓_100%25-22863a?style=flat-square&labelColor=1a7f37)
+![Spring Core](https://img.shields.io/badge/Spring_Core-Advanced_▓▓▓▓▓▓▓▓▓▓_100%25-22863a?style=flat-square&labelColor=1a7f37)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Proficient_▓▓▓▓▓▓▓▓░░_80%25-1d6fa5?style=flat-square&labelColor=185fa5)
+![JWT Security](https://img.shields.io/badge/JWT_Security-Intermediate_▓▓▓▓▓▓░░░░_60%25-b45309?style=flat-square&labelColor=92400e)
+![Microservices](https://img.shields.io/badge/Microservices-Learning_▓▓▓░░░░░░░_30%25-b91c1c?style=flat-square&labelColor=991b1b)
+
+<br/>
 
 ### DSA Roadmap
 
-| Topic | Status |
-|---|---|
-| Arrays & Strings | ![](https://img.shields.io/badge/Solved-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
-| Linked List | ![](https://img.shields.io/badge/Solved-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
-| Stack & Queue | ![](https://img.shields.io/badge/Solved-22c55e?style=flat-square&logo=checkmarx&logoColor=white) |
-| Trees & Binary Search | ![](https://img.shields.io/badge/In%20Progress-3b82f6?style=flat-square) |
-| Graphs | ![](https://img.shields.io/badge/In%20Progress-3b82f6?style=flat-square) |
-| Dynamic Programming | ![](https://img.shields.io/badge/Upcoming-f59e0b?style=flat-square) |
-
---
+![Arrays & Strings](https://img.shields.io/badge/✦_Arrays_%26_Strings-Solved-22863a?style=for-the-badge&labelColor=1a7f37&logoColor=white)
+![Linked List](https://img.shields.io/badge/✦_Linked_List-Solved-22863a?style=for-the-badge&labelColor=1a7f37)
+![Stack & Queue](https://img.shields.io/badge/✦_Stack_%26_Queue-Solved-22863a?style=for-the-badge&labelColor=1a7f37)
+![Trees](https://img.shields.io/badge/◎_Trees_%26_Binary_Search-In_Progress-1d6fa5?style=for-the-badge&labelColor=185fa5)
+![Graphs](https://img.shields.io/badge/◎_Graphs-In_Progress-1d6fa5?style=for-the-badge&labelColor=185fa5)
+![DP](https://img.shields.io/badge/○_Dynamic_Programming-Upcoming-b45309?style=for-the-badge&labelColor=92400e)
 
 ## GitHub Analytics
 
