@@ -33,13 +33,12 @@ public class KuldeepKashyap {
 
     private final String[] building = {
         "Hospital Management System",
-        "Recruitment Management System",
-        "AI Chatbot",
-        "Smart College ERP"
+        "Recruitment Management System"
+        
     };
 
     public String contact() {
-        return "your.email@gmail.com";
+        return "kuldeepkashyap0206@gmail.com";
     }
 }
 ```
