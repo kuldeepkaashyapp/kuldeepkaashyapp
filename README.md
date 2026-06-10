@@ -84,12 +84,12 @@ public class KuldeepKashyap {
 
 A well-architected hospital management backend built to learn and demonstrate Spring Core concepts — including bean lifecycle management, dependency injection patterns, and layered design through UML diagrams.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/hospital-management-system)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Practice_HMS.git)
 
 ---
 
 ### 🎯 Recruitment Management System
-> Firebase · Google APIs · Resume Screening · Candidate Ranking
+>Google APIs · Resume Screening · Candidate Ranking
 
 End-to-end recruitment platform with automated resume screening and candidate ranking. Integrates Firebase for real-time data sync and Google APIs for document parsing.
 
